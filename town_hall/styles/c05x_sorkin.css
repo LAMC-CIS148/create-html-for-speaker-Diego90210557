@@ -15,5 +15,13 @@ main{
 }
 footer{
 	border-top: 5px blue;
-	
-     	
+}
+h1{
+	font-size:150%;
+}	
+h2{
+	font-size:125%;
+}
+h3{
+	font-size:115%;
+}
