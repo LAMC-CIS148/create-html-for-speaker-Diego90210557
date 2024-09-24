@@ -9,10 +9,12 @@ body {
     background-color:yellow;	
 }
 main{
-	padding: 10;
+	padding:top;
 }
 footer{
 	border-top: 20px blue;
+	margin:10px;
+	padding:bottom;
 }
 h1{
 	font-size:150%;
