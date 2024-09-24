@@ -9,6 +9,7 @@ body {
     border-height:10px;	
     margin:20px;
     background-color:yellow;
+	border-background-color:white;
 }
 main{
 	padding:40px;
