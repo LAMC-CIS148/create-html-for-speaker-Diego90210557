@@ -31,10 +31,10 @@ h2{
 h3{
 	font-size:115%;
 }
-.middle{
-	text-color:blue;
-	text-align:right;
-}
+.<style>
+	{text-color:blue;}
+	{text-align:right;}
+</style>
 <style>
 	.middle {text-color:blue;}
 	.middle{text-align:right;}
