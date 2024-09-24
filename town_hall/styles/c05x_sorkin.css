@@ -3,8 +3,8 @@ body {
     font-size: 100%;
     width:650px;
     text-align:center;	
-    border:blue;
-    border:blue;
+    border-style:double
+    border-width:20px
     margin:20px;
     background-color:yellow;
     border-right:10px;
