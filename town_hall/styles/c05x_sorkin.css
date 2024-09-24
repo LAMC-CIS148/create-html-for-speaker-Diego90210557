@@ -5,6 +5,7 @@ body {
     text-align:center;	
     border-style:double;
     border-width:20px;
+    border-color:blue;	
     margin:20px;
     background-color:yellow;
     border-right:10px;
