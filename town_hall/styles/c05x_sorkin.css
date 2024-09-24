@@ -35,9 +35,14 @@ h3{
 	font-size:115%;
 }
 <style>
+.list{text-align:left;}
+</style>
+
+<style>
 	.body{text-color:blue;}
 	.body{text-align:right;}
 </style>
+
 <style>
 	.middle {text-color:blue;}
 	.middle{text-align:right;}
