@@ -35,7 +35,7 @@ h3{
 	text-color:blue;
 	text-align:right;
 }
-.body{
-	text-color:blue;
-	text-align:right;
-}	
+<style>
+	.middle {text-color:blue;}
+	.middle{text-align:right;}
+</style>	
