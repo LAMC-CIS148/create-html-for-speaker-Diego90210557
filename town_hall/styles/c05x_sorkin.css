@@ -9,12 +9,10 @@ body {
     border-height:10px;	
     margin:20px;
     background-color:yellow;
-    border-right:10px blue;
-    border-left:10px blue;
-    border-bottom:10px blue;	
 }
 main{
 	padding:40px;
+	border-bottom:10px blue;
 }
 footer{
 	border-top: 10px blue;
