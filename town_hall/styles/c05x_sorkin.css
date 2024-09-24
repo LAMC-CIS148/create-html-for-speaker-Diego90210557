@@ -4,20 +4,20 @@ body {
     width:650px;
     text-align:center;	
     border-style:double;
-    border-width:20px;
+    border-width:100px;
     border-color:blue;	
     margin:20px;
     background-color:yellow;
-    border-right:10px;
-    border-left:10px;
-    border-bottom:10px;
-    border-right:10px;	
+    border-right:100px;
+    border-left:100px;
+    border-bottom:100px;
+    border-right:100px;	
 }
 main{
 	padding:40px;
 }
 footer{
-	border-top: 20px blue;
+	border-top: 100px blue;
 	margin:10px;
 	padding-bottom:30px;
 }
