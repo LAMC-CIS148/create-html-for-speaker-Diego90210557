@@ -5,16 +5,14 @@ body {
     text-align:center;	
     border:blue;
     border:blue;
-    margin:10px;	
-}
-{
-  background: yellow;
+    margin:20px;
+    background-color:yellow;	
 }
 main{
-	padding: 0;
+	padding: 10;
 }
 footer{
-	border-top: 5px blue;
+	border-top: 20px blue;
 }
 h1{
 	font-size:150%;
