@@ -32,8 +32,8 @@ h3{
 	font-size:115%;
 }
 .<style>
-	{text-color:blue;}
-	{text-align:right;}
+	.body{text-color:blue;}
+	.body{text-align:right;}
 </style>
 <style>
 	.middle {text-color:blue;}
