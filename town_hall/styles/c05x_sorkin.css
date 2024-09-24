@@ -11,6 +11,9 @@ body {
     background-color:yellow;
 	border-background-color:white;
 }
+img{
+	float:left;
+}	
 main{
 	padding:40px;
 	border-bottom:10px blue;
