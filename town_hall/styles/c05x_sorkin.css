@@ -31,7 +31,11 @@ h2{
 h3{
 	font-size:115%;
 }
-.cite{
+.middle{
 	text-color:blue;
-	text-allign:right;
+	text-align:right;
 }
+.body{
+	text-color:blue;
+	text-align:right;
+}	
