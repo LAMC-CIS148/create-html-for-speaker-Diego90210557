@@ -6,6 +6,7 @@ body {
     border-style:double;
     border-width:100px;
     border-color:blue;	
+    border-height:100px;	
     margin:20px;
     background-color:yellow;
     border-right:100px;
