@@ -35,7 +35,11 @@ h3{
 	font-size:115%;
 }
 <style>
-.list{text-align:left;}
+.block{text-align:left;}
+</style>
+
+<style>
+.quote{text-align:left;}
 </style>
 
 <style>
