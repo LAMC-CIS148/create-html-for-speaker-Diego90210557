@@ -1,3 +1,6 @@
+html{
+	background-color:yellow;
+}	
 body {
 	font-family: Arial, Helvetica, sans-serif;
     font-size: 100%;
@@ -8,8 +11,7 @@ body {
     border-color:blue;	
     border-height:10px;	
     margin:auto;
-    background-color:yellow;
-	border-background-color:white;
+    background-color:white;
 }
 img{
 	float:left;
